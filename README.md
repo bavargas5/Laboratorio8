@@ -3,13 +3,15 @@
 # 1. OBJETIVOS
 
 **General**
-Conocer alguna de las funciones más importantes del osciloscopio y su adecuado manejo como instrumento de medición eléctrica mediante el uso de Multisim
+
+-Aplicar los conocimientos teóricos adquiridos sobre osciloscopios a la realización de un conjunto de medidas de diferentes casos prácticos además de conocer alguna de las funciones más importantes del osciloscopio y su adecuado manejo como instrumento de medición eléctrica mediante el uso de Multisim
 
 **Específicos**
 
-Determinar directamente el periodo y el voltaje de una señal.
 
-Determinar indirectamente la frecuencia de una señal.
+-Determinar directamente el periodo y el voltaje de una señal.
+
+-Determinar indirectamente la frecuencia de una señal.
 
 
 # 2. MARCO TEÓRICO
