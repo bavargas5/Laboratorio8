@@ -18,6 +18,7 @@
 
 **CIRCUITO ANALIZADO**
 
+![](https://github.com/bavargas5/Laboratorio8/blob/main/IMG%20BV/1.png)
 
 **PROCEDIMIENTO**
 
