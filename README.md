@@ -4,7 +4,7 @@
 
 **General**
 
--Aplicar los conocimientos teóricos adquiridos sobre osciloscopios a la realización de un conjunto de medidas de diferentes casos prácticos además de conocer alguna de las funciones más importantes del osciloscopio y su adecuado manejo como instrumento de medición eléctrica mediante el uso de Multisim
+-Aplicar los conocimientos teóricos adquiridos sobre las señales senoidales y el osciloscopios a la realización de un conjunto de medidas de diferentes casos prácticos además de conocer alguna de las funciones más importantes del osciloscopio mediante el uso de Multisim
 
 **Específicos**
 
