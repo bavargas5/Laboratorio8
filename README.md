@@ -135,6 +135,6 @@ No coinciden, debido a que el voltaje que se muestra en el osciloscopio es el va
 
  -Tal y como hemos podido comprobar el osciloscopio que se encuentra en Multisim es básicamente un dispositivo de visualización gráfica que muestra señales eléctricas variables en el tiempo, en el eje vertical representa el voltaje; mientras que el eje horizontal representa el tiempo.
  
- -En el análisis de circuitos eléctricos una señal senoidal, que representa la tensión o corriente se puede expresar  como una función que varia con el tiempo además podemos encontrar las características básicas como son: voltaje pico a pico, voltaje pico, amplitud, ciclos entre otros
+ -Es importante aclarar que en el análisis de circuitos eléctricos una señal senoidal, que representa la tensión o corriente se puede expresar  como una función que varia con el tiempo además que podemos encontrar las características básicas como son: voltaje pico a pico, voltaje pico, amplitud, ciclos entre otros
 
 # 7. BIBLIOGRAFÍA
