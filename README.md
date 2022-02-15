@@ -3,9 +3,13 @@
 # 1. OBJETIVOS
 
 **General**
-
+Conocer alguna de las funciones más importantes del osciloscopio y su adecuado manejo como instrumento de medición eléctrica mediante el uso de Multisim
 
 **Específicos**
+
+Determinar directamente el periodo y el voltaje de una señal.
+
+Determinar indirectamente la frecuencia de una señal.
 
 
 # 2. MARCO TEÓRICO
@@ -127,5 +131,6 @@ No coinciden, debido a que el voltaje que se muestra en el osciloscopio es el va
 
 # 6. CONCLUSIONES
 
+Tal y como hemos podido comprobar el osciloscopio que se encuentra en Multisim es básicamente un dispositivo de visualización gráfica que muestra señales eléctricas variables en el tiempo, en el eje vertical representa el voltaje; mientras que el eje horizontal representa el tiempo.
 
 # 7. BIBLIOGRAFÍA
