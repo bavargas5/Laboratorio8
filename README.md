@@ -21,6 +21,7 @@
 
 **MATERIALES**
 
+![](https://github.com/bavargas5/Laboratorio8/blob/main/IMG%20BV/21.png)
 
 **CIRCUITO ANALIZADO**
 
@@ -130,6 +131,7 @@ No coinciden, debido a que el voltaje que se muestra en el osciloscopio es el va
 
 # 5. VIDEO
 
+https://youtu.be/H0G6EQKzGxs
 
 # 6. CONCLUSIONES
 
