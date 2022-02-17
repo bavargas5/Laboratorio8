@@ -141,3 +141,5 @@ https://youtu.be/H0G6EQKzGxs
  -Es importante aclarar que en el análisis de circuitos eléctricos una señal senoidal, que representa la tensión o corriente se puede expresar  como una función que varia con el tiempo además que podemos encontrar las características básicas como son: voltaje pico a pico, voltaje pico, amplitud, ciclos entre otros
 
 # 7. BIBLIOGRAFÍA
+
+-Caramo Oscar. (08/03/2017). Corriente Senosoidal. SCRIBD. Recuperado de: https://es.scribd.com/document/341325509/CORRIENTE-SINUSOIDAL
