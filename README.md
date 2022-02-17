@@ -142,4 +142,6 @@ https://youtu.be/H0G6EQKzGxs
 
 # 7. BIBLIOGRAFÍA
 
--Caramo Oscar. (08/03/2017). Corriente Senosoidal. SCRIBD. Recuperado de: https://es.scribd.com/document/341325509/CORRIENTE-SINUSOIDAL
+- Caramo Oscar. (08/03/2017). Corriente Senosoidal. SCRIBD. Recuperado de: https://es.scribd.com/document/341325509/CORRIENTE-SINUSOIDAL
+
+- Floyd, T. L. (2021). Principios De Circuitos Electricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.
