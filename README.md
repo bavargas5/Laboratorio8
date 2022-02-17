@@ -16,6 +16,7 @@
 
 # 2. MARCO TEÓRICO
 
+![](https://github.com/bavargas5/Laboratorio8/blob/main/IMG%20L8/Onda%20Seno.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
